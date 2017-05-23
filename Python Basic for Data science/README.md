@@ -4,6 +4,6 @@
 
 ---
 
-<img src="https://akamaicovers.oreilly.com/images/0636920050896/cat.gif" width="360">
+<img src="http://searchengineland.com/figz/wp-content/seloads/2014/08/four-pandas-ss-1920-800x450.jpg" width="360">
 
 ---
